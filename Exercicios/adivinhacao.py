@@ -1,7 +1,7 @@
 print('******************************')
 print('* Jogo da adivinhação        *')
 print('******************************')
-numero_secreto = 42
+numero_secreto = 46
 total_de_tentativas = 3
 rodada = 1
 pontos = 1000
